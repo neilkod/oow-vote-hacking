@@ -1,0 +1,376 @@
+10886|"How Cisco Services aligned Strategy & Operations to guide Business Architecture"|55460
+10887|"Managing Change in an Oracle environment"|136368
+10888|"DevOps for DBAs"|79675
+10889|"Innovative Integration of Apache Solr with Oracle RDBMS JVM, AQ & Data Cartridge"|10259
+10890|"Setting up of PeopleSoft Self-Service Environment over Intranet and Internet."|136371
+10891|"Defining the Instance Strategy for PeopleSoft Implementation & Upgrades"|136371
+10892|"Oracle E-Buss Suite Rel 12 with RAC 11g Rel2 Implementation Real World Insights "|87663
+10893|"Building Mobile Apps with Oracle"|10023
+10894|"Combining database features with storage technologies to solve DBA challenges "|75721
+10895|"Tips & Tricks on E-Business Suite R12 Rollout in Brazil"|36998
+10896|"How GE uses 11g RAC to provide high available and scalable database solutions"|136369
+10897|"Virtualizing Oracle Database Best Practices"|136384
+10898|"Sharpen your Oracle RAC and Dataguard using Intel Zeon Based Blade Servers"|78032
+10899|"Disaster recovery for Oracle Database Standard Edition (SE) "|75721
+10900|"A Privacy/Security Model to protect and secure within the DW/BI reporting tools"|136372
+10901|"Migrating Oracle Databases to the Cloud"|136388
+10902|"Infrastructure migration using Oracle database 11gR2 Grid Plug and Play "|75721
+10903|"Mission-critical Availability for Oracle Deployments on Enterprise Servers"|110152
+10904|"Embracing the Automatic Diagnostic Repository in Oracle Database 11g"|96293
+10905|"Supporting a larger group of UPK Developers effectively "|65293
+10906|"Enterprise Content Management integration, much easier and faster with CMIS"|39673
+10907|"Hudson arrives at Oracle, let developers use it to lower the maintenance costs"|39673
+10908|"Don't bore learners with simple UPK topics. Create appealing content instead! "|65293
+10909|"How to automate decision making with Oracle Business Rules 11g"|10343
+10910|"Service Oriented Integration for JD Edwards EnterpriseOne"|136393
+10911|"Out of the Black Box: Evaluating your IO Subsystem"|48882
+10912|"Using Oracle Database Vault to Secure Sensitive Data in Oracle E-Business Suite"|125710
+10913|"Single instance database conversion to RAC - tips and techniques"|133094
+10914|"¿Cómo lo hiciste? - Best practices in translating UPK e-learning content "|65293
+10915|"Evaluating Oracle Exadata: Starring Roles for the Best Technology"|10341
+10916|" Oracle 11gR2 Cluster upgrade success story- A complete life cycle"|133094
+10917|"Driving ADF Applications using BPM Process"|135225
+10918|"Backup Recovery best strategies for RAC"|133094
+10919|"Managing & Troubleshooting Clusterware - Best Practices"|133094
+10920|"Teaching Business Processes by integrating a Process Modeling tool into UPK "|65293
+10921|"Programming Oracle Data Pump"|136396
+10922|"Four ways to transition from Oracle Forms to Oracle ADF"|10343
+10923|"Exadata explained"|89832
+10924|"Virtualization Management: How to avoid “Rip and Replace”"|136376
+10925|"Under The Hood of Oracle ASM: Fault Tolerance"|10341
+10926|"Building an agile e-commerce web platform with Oracle Database 11g & PHP"|136411
+10927|"Implementing a Rapid Recovery Strategy on Standard Edition"|136396
+10928|"Upskilling a Data Developer for Data Mining"|136408
+10929|"Using Oracle Data Miner 11gR2 & SQL Dev. for Data Mining"|136408
+10930|"XFILES, The APEX 4 Version: The Truth is in There..."|108081
+10931|"Oracle Database Consolidation: Practical Chargeback Methods"|10341
+10932|"How to Deploy your Oracle Data Miner 11g R2 Workflows in a Live Environment"|136408
+10933|"Pitfalls & Challenges experienced in WebCenter implementations"|135726
+10934|" Oracle Application EBS 11i to R12 Data Migration Case Study"|26206
+10935|"Enabling Social Media Analytics using OBIEE 11g and Data Miner"|96574
+10936|"Oracle GoldenGate and OBIEE to enable Real-Time BI for CRM and ERP Applications"|96574
+10937|"Examining high-service availability challenges in MySQL deployments. "|136177
+10938|"Improving Shop Floor Reporting in an Oracle Continuous Manufacturing Environment"|136391
+10939|"Adding global scalability to a same-day-order production scheduling solution"|136391
+10940|"Deep dive into Oracle Application Development Framework. "|136413
+10941|"Oracle 11g RAC for Developers"|20228
+10942|"New Features in 11gR2 RAC"|20228
+10943|"Integrate Oracle GoldenGate with Oracle Real Application Cluster"|117830
+10944|"Empowering Planner with Next Generation Advance Planning Tool: Rapid Planning "|136422
+10945|"Managing Better Product Vitality through Oracle Agile PLM "|136422
+10946|"Oracle Golden Gate vs Oracle Data Guard"|136429
+10947|" How GoldenGate helps a company to zero downtime for the application releases"|136429
+10948|"Building an ADF front end for E-Business Suite "|12255
+10949|"Performance Tuning for BPM and SOA 11g "|12255
+10950|"Building a custom BPM worklist "|12255
+10951|"How to make sure your ADF application meets tomorrow's needs?"|54416
+10952|"Scaling Oracle RAC in Virtualized/Cloud Environment "|136436
+10953|" A Q&A Session With Richard Foote on Oracle Indexes"|117380
+10954|"The DBA: an architect or an administrator?"|136043
+10955|"11g XE beta: Oracle Database Express Edition"|136043
+10956|"Auditing vs. Performance in the Oracle Database"|136043
+10957|"Features unique to Oracle and missing from all other databases"|136043
+10958|"Advanced MySQL Replication For The Masses"|136437
+10959|"Edition Based Redefinition - an Overview"|25023
+10960|"Analytic Functions Revisited"|25023
+10961|"Oracle Forms Modernization: The PL/SQL Way"|136446
+10962|"11gR2 ASM – Inside story – Part1 (Grid infrastructure installation) "|126693
+10963|"Administration of Automatic Diagnostic Repository (ADR)"|89810
+10964|"Can Social Media be the next big lever for Business Intelligence?"|136454
+10965|"Fusion Applications Learning Path"|11005
+10966|"What Do Fusion Apps Tell You About your Own Enterprise?"|11005
+10967|"Overcoming the Implementation Challenges, Engineering & Construction Sector "|92089
+10968|"11g Best Practices for using Partitioning in HA Environments and VLDB"|98305
+10969|"Administering Parallel execution in RAC"|136464
+10970|"Oracle RAC Interview Q/A Interactive Competition"|81204
+10971|"Oracle VM: Overview, Architecture, Deployment Planning & Demo/Exercise"|81204
+10972|"Oracle SQL Developer Best Practices for Fast and Enhanced Database Development"|98305
+10973|"RAC or Not, Here I come!"|136464
+10974|"Overview & Implementation of Clustering & High Availability with Oracle VM"|81204
+10975|"Best Practices for doing day-to-day DBA tasks using Oracle SQL Developer 3.0"|98305
+10976|"360 Degree Overview of Oracle Cloud Computing Paradigms & Technologies"|81204
+10977|"Migrate Your Online Oracle Database to RAC Using Streams and Data Pump"|81204
+10978|"Hello Worldwide Web: Your First JSF in JDeveloper 11g"|60595
+10979|"Database Performance Tuning: Getting the best out of Oracle Enterprise Manager"|81204
+10980|"Introduction to Java-PL/SQL Developers Take Heart"|60595
+10981|"360 Degrees: Building a Private Oracle EBS Cloud using Oracle VM"|81204
+10982|"Deploying Applications to WebLogic Server Using JDeveloper and WLS "|60595
+10983|"360 Degrees - Achieving High Availability for Enterprise Manager Grid Control"|81204
+10984|"... and UIX Begat ADF Faces: How Rich is ADF Faces Rich Client?"|60595
+10985|"Analyzing your Data with Analytic Functions "|73777
+10986|"Tools and techniques for advanced debugging in Solaris & Linux"|136464
+10987|"Tuning log file sync event"|136464
+10988|"Considerations for optimal setup in RAC"|136464
+10989|"R12 Implementation Success Story"|118558
+10990|"Automating your controls with GRCC"|118558
+10991|"Flashback Features in Oracle11g"|73777
+10992|"Oracle RAC One-Node: What, Why, & How"|30926
+10993|"Oracle Database Performance Tuning: Get the Basics Right"|30926
+10994|"Complex Flexfield Validations"|134952
+10995|"Make it Happen with the Business Event System"|134952
+10996|"Diagnosing the eBusiness Suite"|134952
+10997|"Ten New Forms and OAF Personalization Examples for R12.1"|136481
+10998|"What's New in Diagnostics - New Features in 12.0.6, 12.1.1, 12.1.2 and 12.1.3"|136481
+10999|"R12 Function and Data Security - UMX and Role Based Access Control"|136481
+11000|"Thinking 'Out of the box' - Oracle HCM for Dummies"|136480
+11001|"Rolling With The Punches - Adventures in Exadata Patching"|136482
+11002|"Maximizing Exadata's Infiniband Network"|136482
+11003|"Performance Tuning Oracle SOA Suite 11g - Top 11 Tuning Tips"|136483
+11004|"Getting Starting with Oracle Application Integration Architecture Development"|136483
+11005|"On the most common mistakes made by DBAs when writing CVs/Resumes"|136043
+11006|"no comprende Señor – Translate your APEX Application"|48035
+11007|"Become a Champion Data Modeler with SQL Developer Data Modeler 3.0"|136506
+11008|"SQL Developer Data Modeler 3.0 Under the Covers: The Reporting Schema"|136506
+11009|"SQL Developer Data Modeler/APEX Integration"|136506
+11010|"Oracle Application Development Framework performance testing. Real experience."|136413
+11011|"Siebel Configuration Management and Migration - Challenges and Solutions"|136509
+11012|"Key Questions to Ask When Planning Your Upgrade "|136510
+11013|"RMAN 11g new features with practical demonstrations"|107403
+11014|"Using the Oracle UPK for Collaborative e-Learning Development: A Review"|135933
+11015|"Speed up your ADF Fusion application"|26743
+11016|"Enterprise Content Protection with Oracle Entitlements Server"|16963
+11017|"How DBAs can reduce the Global Warming "|136432
+11018|"Applying Test Driven Development (TDD) within JDeveloper"|136521
+11019|"New Solaris Hotplug Framework"|136523
+11020|"Benefiting ODI in a heterogeneous environment in Telco"|120702
+11021|"Challenges in Implementing Oracle E-Business Suite on Windows with 100% Uptime"|136535
+11022|"Effectively using Oracle Data Guard for multiple purposes "|136547
+11023|"Primavera P6 R8 Integration with Ebusiness Suite R12 Case Study"|136550
+11024|"Processing massive CDRs of Turkcell using Oracle Data Integrator, Exadata, APEX"|120515
+11025|"Weblogic /Coherence"|131791
+11026|"Simplified planning and forecasting using Hyperion Financial Management "|136562
+11027|"Utilities Solution Template on Oracle platform to enable AMI integration"|136546
+11028|"Offload Reporting worklod using Snapshot Standby"|107904
+11029|"Creative Accounting:  Use of a Project Segment in your COA"|33924
+11030|"Mobile and Multi-Platform Engagement with Oracle ATG"|136662
+11031|"Mobile and Multi-Platform Engagement with Oracle ATG"|136662
+11032|"Managing Unstructured Data: Lobs, SecureFiles, BasicFiles "|136668
+11033|"Transformation into a Demand Driven Value Chain -Challenges & Leading Practices "|136678
+11034|"How can Oracle Distribution Planning help reduce distribution costs? "|136678
+11035|"Facebook for Oracle ! All about Oracle WebCenter for non technical folks"|107438
+11036|"Oracle E-Business Suite running on Oracle VM and Oracle Linux"|11940
+11037|"Embedding Custom Forms and Reports within Contract Management"|65688
+11038|"Embedding Custom Forms and Reports within Contract Management"|65688
+11039|"Making Enterprise Architecture real. A day in the life of an EA."|114272
+11040|"Top lessons learnt in building an integrated Web Center and SOA 11g application"|114272
+11041|"Oracle Primavera Portfolio Management provides great value to the US Air Force  "|136709
+11042|"Resolving Buffer Busy Related Contention"|136713
+11043|"Unit of Work Time Based Performance Analysis"|136713
+11044|"Resolving The Free Buffer Waits Event"|136713
+11045|"Learning Oracle with Oracle VM Virtualbox"|90686
+11046|"How to Seamlessly Deploy Oracle SOA Projects Across Multiple Environments"|136374
+11047|"Accelerated Interface Development Approach - Integration Framework"|136718
+11048|"Remote SOA - Siebel Local Web Services Implementation"|136718
+11049|" Storage Tiering for Oracle Database "|136416
+11050|"Co-Existence with Fusion Applications - Have You Thought About Customizations?"|118497
+11051|"Test abstract"|127746
+11052|"Running Solaris Operating System on Oracle VM for x86"|136755
+11053|"Mobile ERP: The time is now!"|136765
+11054|"TimesTen: how to create your first database and what pitfalls to avoid"|136579
+11055|"Demystifying Universal Adapters in Oracle BI Apps"|136785
+11056|"From Dev to DevOps"|136791
+11057|"Optimized Resource Management Using OVM for RAC One Node"|76599
+11058|"Enhanced DB performance using Flash Cache & Oracle UEK"|76599
+11059|"Critical Success Factors for Oracle PIM Implementation "|136814
+11060|"We trained you - why didn't you learn? A case study in Change Management"|136682
+11061|"How to ensure Safety and Traceability in the Food Chain?"|136638
+11062|"Oracle RAC on Oracle VM: Best Practices & New Feature Sets"|76154
+11063|"Audit Vault: Part of Total Security@the Ministry of the Brussels Capital Region"|67749
+11064|"How not to lose your ASM disks on Linux"|136834
+11065|"Optimizing Enterprise Linux Performance"|136853
+11066|"Moving Prisoners and Illegal Aliens with Oracle – JPATS “The Real ConAir”"|136841
+11067|"Data Quality Management Tool With Oracle Application Express"|136695
+11068|"Strategy for the first implementation with Oracle BPM 11g"|136868
+11069|"Oracle Localizations for Brazil- Key Features & Capabilities"|125577
+11070|"IT Is from Mars, Business Is from Venus"|136868
+11071|"Tailoring AR Invoices with Bill Presentment Architecture (BPA)"|125577
+11072|"Wanna accelerate implementation time for New country enablements?"|125577
+11073|"10 Ways ADF Business Components Can Improve a Developer's Life"|10553
+11074|"Enabling global collaboration and information sharing with Oracle Enterprise 2.0"|72254
+11075|"Five Features You Ought to Know About the Oracle Scheduler"|10297
+11076|"Slashing Manual Input with Oracle Document Capture"|62181
+11077|"R12 Happy Hour!"|83384
+11078|"Simplifying the PeopleSoft-Maximo Integration – a Best Practice Approach"|25576
+11079|"Automating Public Sector Projects with PeopleSoft ESA"|119029
+11080|"A Best -Of-Breed Approach to Integrated Project Management"|136902
+11081|"Are you ready for Siebel Application Integration for Oracle Fusion Middleware?"|136718
+11082|"Enabling the Internal Cloud "|118636
+11083|"Oracle VM and Storage Best practices "|118636
+11084|"A Methodology for Oracle Server Stress Testing"|22586
+11085|"Tuning Inter-Instance Performance in RAC and OPS"|22586
+11086|"MySQL Optimizer overview and Performance Enhancements"|136934
+11087|"Unleash the Potent of calculating tax for Employees in Payables"|136974
+11088|"Unleash AOP into your Coherence Application Grid"|37511
+11089|"Building a Customizable Web Portal in 30 Minutes using Webcenter Suite"|106226
+11090|"Integrating Oracle Agile PLM For Process and Computer Aided Design"|107756
+11091|"'No Impact to Production', a predicament for Rollout / Production Enhancements"|137006
+11092|"Planning for Release 12 "|21528
+11093|"The Architectural Efficiency of Cloud Solutions"|137010
+11094|"Oracle Financial 12.0.3 to 12.1.3 Upgrade- Func/Tech Planning & Lessons Learned "|137027
+11095|"Getting Real with Oracle ECM 11g – Benefits & Lessons Learned from Going Live "|77622
+11096|"Mastering Records Management and Retention Policies with Oracle ECM 11g "|77622
+11097|"Oracle ECM & PeopleSoft/JDE – A Synergistic Combination "|77622
+11098|"Deliver High Availability/Demand, Secure & Real Time Processing on Oracle Cloud"|118532
+11099|"Case Study: Deliver engaging Self Service with an additional PeopleSoft portal"|10118
+11100|"Case Study: How The Cloud accelerated the PeopleSoft project of a UK retailer"|10118
+11101|"Completing the incomplete circle of claiming in Channel Revenue Management"|137100
+11102|"Simplifying Work Order management in the utility market with Oracle BPM"|58365
+11103|"A new beginning for outsourcing closed book insurance policy administration "|137135
+11104|"Transform Your Life Business By Transforming Your Legacy "|137135
+11105|"A Differentiated Claims Experience enabling Operational Transformation "|137135
+11106|"Next Generation Banking: The Branch Is Here to Stay "|137135
+11107|"Benchmark your Business Agility: World Insurance Report 2011 "|137135
+11108|"Intergration of Oracle Identity management with Oracle and 3rd party products"|136471
+11109|"Introduction to BI Publisher in R12: Getting Started"|23407
+11110|"BIP Delivery Manager in R12.1.3: Truths and Opportunities"|23407
+11111|"What’s new in BI Publisher 11g – EVERYTHING!"|23407
+11112|"Is BI By Duct Tape and Bailing Wire Really BI?"|36984
+11113|"R12: Modern Medicine For Your Company's Longterm Wellness"|35065
+11114|"Oracle Essbase and Project Analytics for Federal Compliance"|136407
+11115|"Operational reporting Oracle BI Publisher and JD Edwards becomes success story"|137170
+11116|"UPK -> UPK Pro: moving up one level by supplying real training material"|65549
+11117|"Oracle BI Action Framework - Actionable Intelligence Study"|136407
+11118|"New mode in UPK: Explorative mode! Find out how it works"|65549
+11119|"Integrating Hyperion Financial Management and OBIEE 11g"|136407
+11120|"Organizational Alignment - The Key to OSSM Success"|136407
+11121|"Opportunity to Cash: Architecting the Ultimate Closed Loop with OBIEE"|136407
+11122|"Alterative solution to GASB 34/35 Reporting in R12 with Single Asset Book"|53597
+11123|"Real time shopfloor visibility with Oracle Manufacturing Execution System in R12"|110344
+11124|"Enable your sales organizations to go Social with Oracle Fusion Sales"|127066
+11125|"Performance Gains Through Unbreakable Enterprise Kernel"|76061
+11126|"how to setup high availability for Oracle Grid Control using dataguard and RMAN"|43403
+11127|"Everyday life of Database Machine Administrators"|92530
+11128|"A new fault tolerance oracle system"|92417
+11129|"Best Practices for Addressing 5 Common Service Delivery Challenges in the Cloud"|136881
+11130|"Financial Services Best Practices for Risk Management and Compliance"|104934
+11131|"Key Factors of Oracle eBiz Adoption"|137204
+11132|"Using Excel and Oracle for Business Intelligence and Ad-Hoc Reporting"|67272
+11133|"Enabling Oracle OLAP for Enterprise Business Intelligence"|67272
+11134|"Simplify and Accelerate using Oracle OLAP to Eliminate BI Mid-Tiers"|67272
+11135|"Mobile ERP/HR Application through SOA Middleware and Frameworks"|118791
+11136|"Enabling Abu Dhabi to attain their vision of top 5 global eGovernments"|137146
+11137|"Making the case for AIA"|28093
+11138|"Governance of a complex landscape: Enterprise Manager and then what?"|28093
+11139|"Integration Features in Oracle MDM Suite - A Deep Dive and Comparison"|136796
+11140|"Oracle CRM On-Demand – Integration with other IT systems"|121002
+11141|"Improved Integration Agility with SOA 2.0 and the Event Delivery Network"|95688
+11142|"Exadata: Failure is not an Option"|118863
+11143|"Exadata Datawarehousing: Parallel Query Challenges"|118863
+11144|"Practical Insights on Oracle Application Server 10G to WebLogic 11G Migration"|126795
+11145|"Setting up for a Successful Oracle R12 Implementation"|137294
+11146|"Top 10 Reasons for SMB's to Implement Oracle R12"|137294
+11147|"Dashboard 2.0 : Data Insight with Oracle ADF Data Visualization Tools"|112055
+11148|"What an Oracle ADF Faces Developer should know about JSF 2.0"|112055
+11149|"Expedite SOA development using AIA"|119703
+11150|"Implementing core HCM solution in a reduced time and cost"|137298
+11151|"Challenges of Human Capital Management in the flat world"|137298
+11152|"Grow your business by adding social media to your eCommerce web sites"|137329
+11153|"Implementing Oracle 11g Enterprise Manager for Prime Time Monitoring"|137337
+11154|"ADF UI based on Webservice Datacontrol"|120452
+11155|"Multi-GAAP Accounting and Reporting in Oracle Financials Accounting Hub "|135220
+11156|"Handling Dimension Manufacturing in E-Biz"|137356
+11157|"Reduce your deployment / maintenance downtime window for JDE "|137371
+11158|"Build your own 'High-Secure system' with JDE EnterpriseOne security features "|137371
+11159|"Build your own 'High-Secure system' with JDE EnterpriseOne security features"|137371
+11160|"Tool to speed up JDE production releases without compromising on quality"|137371
+11161|"Audit implementation & improve business with right security model in World & E1"|137371
+11162|" Integrate your 3PL with JDE using Oracle Fusion Middleware"|137371
+11163|"Lack of integration from retail side of your business to your JDE Back Office"|137371
+11164|"Driving productivity improvements with JD Edwards Capital Asset Management (CAM)"|137371
+11165|"Minimizing production delays through accurate scheduling "|137371
+11166|"Get truly global with base currency conversion"|137371
+11167|"Ensuring ROI from ERP Projects"|137371
+11168|"MobileBI - extending BI beyond consumers’ desk"|137371
+11169|"Evaluating SaaS and cloud solution-BI OnDemand"|137371
+11170|"Reduce JDE invoice processing cost & cycle time with document capture & imaging "|137371
+11171|"Leveraging Oracle GoldenGate to improve JDE Migration "|137371
+11172|"Implementing JD Edwards in Brazil? "|137371
+11173|"SharePoint extends JD Edwards for effective collaboration with Partners"|137371
+11174|"Oracle JD Edwards = Extreme Performance for JDE users"|137371
+11175|"Migration from CreateForm to Oracle BI Publisher "|137371
+11176|"Complex Global Upgrade under 300K with least disruption"|137371
+11177|"JDE Technical Upgrade - Planning, Considerations"|137371
+11178|"Achieve a competitive advantage by extending JD Edwards with Oracle Webcenter "|137371
+11179|"Are Paper intensive processes slowing you down?"|137371
+11180|"Future-proof your JDE upgrade investment by leveraging  Oracle SOA 11g "|137371
+11181|"How to read and understand Execution Plans"|34319
+11182|"Query Transformations"|34319
+11183|"Tuning Exadata"|136896
+11184|"Reaping the Benefits of FAH on Exadata: Accomplish Fast Close using Oracle"|98358
+11185|"Is your enterprise swimming in Information,without Insights?-Here’s a solution"|137416
+11186|"Best Practices for Advanced Collections in Wholesale Distribution Industry"|77109
+11187|"Oracle Fusion Apps: Extensibility - An effective Cost & Time Saving approach"|137430
+11188|"Managing Data Quality in a multi application environment"|137439
+11189|"Learn Oracle Fusion Applications Lifecycle Management"|118636
+11190|"Oracle GoldenGate - Middleware and Storage Best Practices"|118636
+11191|"Best Practices in Designing Scalable Batch Programs in Oracle R12 EBS"|91304
+11192|"Reporting Challenges in the Public Sector"|90731
+11193|"Wiki as a Public Sector E-Business Suite Knowledge Repository"|90731
+11194|"	Data Guard in an E-Business Suite Environment"|90731
+11195|"Shared Service Center Optimization Through a Global Transformation of Release 12"|117298
+11196|"Minimizing Total Cost of Ownership of ERP: Remodeling Current EBS Configurations"|117298
+11197|"Half the Battle of R12: How to Go Live in Half the Time and for Half the Cost"|117298
+11198|"Designing a Scalable Chart of Accounts for R12 and Subledger Accounting"|117298
+11199|"Don’t Forget Your History: Keeping Historical Transactions for EBS Release 12"|117298
+11200|"Converged I/O Solutions for Virtualized Oracle Workloads"|137499
+11201|"8Gb/s Fibre Channel - Obtaining peak I/O performance in OLTP environments"|137507
+11202|"8Gb/s Fibre Channel - Obtaining peak I/O performance in OLTP environments"|137507
+11203|"Case Study on approaches for Oracle Time and Labor"|118849
+11204|": Rapid migratio! n of VLDBs from 10g/SRDF to Exadata/Data Guard "|137549
+11205|"Oracle is Easy: Virtualize it!  "|136079
+11206|"Surviving R12 Jumanji - 10 Keys to a Successful Implementation"|124230
+11207|"FS Firm Enhances Sourcing & Supplier Management Using Fusion Procurement"|137571
+11208|"Can SharePoint and Oracle ECM Co-Exist?  Yes!"|137562
+11209|"Optimized Policies and Procedures in Healthcare with Oracle Content Management "|137562
+11210|"Empowering the Global UCM Organization"|137562
+11211|"deploying database vault and audit vault in dataguard managed standby databases"|118898
+11212|"Database Cloning with Oracle CloneDB and NetApp Snapshot/FlexClone"|137616
+11213|"Oracle 11g Database features and NetApp’s Storage Efficiency"|137616
+11214|"Oracle Exadata Development, Test and Re-development"|137616
+11215|"Database performance with Oracle Direct NFS and NetApp"|137616
+11216|"Oracle VM & NetApp's Solution for Cloud"|137616
+11217|"Oracle Data Warehousing & NetApp"|137616
+11218|"Why won't my customers pay me?! "|125035
+11219|"Digitize, Automate, Integrate: Employee Self Service with eForms & SOA Suite 11g"|22614
+11220|"The Next Generation Data Center"|137616
+11221|"Migrating Oracle Workflow to Oracle BPM"|25020
+11222|"Bridging the gap between SOA and the Database"|25020
+11223|"Real world example of building a successful business case for R12 EBS rollout"|129364
+11224|"Unified Storage using Oracle DNFS and ASM: Performance, Scalability and Cloning"|137703
+11225|"Tax solution for a Global Rollout, Key Concepts and Solution Design"|137709
+11226|"Financials Accounting Hub - Deep drive into the rule based accounting engine"|137724
+11227|"Realizing Metro’s vision through their upgrade to PeopleSoft FSCM 9.1"|25576
+11228|"iSetup: Don't Let Your Configurations Manage You"|137741
+11229|"MySQL 101 for Oracle DBAs"|14086
+11230|"Proactive JDE Data Management – Easier Upgrades & Better Productivity"|135815
+11231|"Oracle Virtualization on the Fujitsu Cloud"|137691
+11232|"Seamless integration of NoSQL tables into the ordinary Oracle SQL interface"|137934
+11233|"Amazon RDS, EC2 and S3 for Oracle Databases"|10341
+11234|"Monitoring MySQL with Oracle Enterprise Manager Grid Control"|10341
+11235|"Database I/O Performance: Measuring and Planning"|10341
+11236|"Oracle R12 Entity Design: Fundamental concepts about System Organizations "|138017
+11237|"Collecting the real time price for an item from Sales order and use it for SOP "|138013
+11238|"Information Lifecycle Management for Performance and Storage Reduction"|138025
+11239|"Harnessing AWR and ASH via command line and graphics"|138036
+11240|"NFS vs Fiber Channel"|138036
+11241|"A  formal SQL tuning methodology: Visual SQL Tuning"|138036
+11242|"Integrated Collaborative Forecasting for CPG Industry"|62254
+11243|"Dtrace: the ultimate performance tool"|138036
+11244|"Integration with SAP - The Oracle Way"|134966
+11245|"IR/ISO synchronization from Planning"|136986
+11246|"Making JD Edwards co-existence work"|138121
+11247|"Evaluate and Optimize your JD Edwards Support – Maximize ROI"|138121
+11248|"Syntricity Improves Oracle application performance by 30x "|138037
+11249|"Optimizing Oracle Database"|67478
+11250|"Cloudmark significantly accelerates MySQL performance "|138037
+11251|"Alibris improves database search by 6x"|138037
+11252|"Datalogix accelerates Oracle RAC Data Warehouse by 40x"|138037
+11253|"Boosting your datawarehouse development using Experts (OWB)"|75870
+11254|"Migrating from Exadata V1 to X2-2"|138215
+11255|"Case Study: Geo Datawarehouse based on dimensional model"|75870
+11256|"Oracle11G SCAN: Sharing successful implementation experience"|138040
+11257|"Oracle11G Direct NFS - Better, Faster, Stronger"|138040
+11258|"Oracle e-Business Suite upgrades downtime optimization"|138040
+11259|"AWR Performance data mining"|138040
+11260|"How EBS R12 makes possible to implement fully Automated Cloning!"|138040
+11261|"Configure Highly Available and secure Fusion Middleware environment"|137580
