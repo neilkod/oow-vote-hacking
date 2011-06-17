@@ -42,7 +42,7 @@ for line in f:
 f.close()
 
 # read the voters, write to a file
-f = open('data/voters.dat')
+f = open('data/users.dat')
 for line in f:
 	voter_id,voter_name = line.strip().split('|')
 	voter_id = int(voter_id)
