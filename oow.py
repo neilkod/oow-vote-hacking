@@ -12,6 +12,9 @@ import operator
 person = {}
 sessions = {}
 votes = defaultdict(int)
+votes_by_person = defaultdict(int)
+
+
 
 
 VOTES_LIMIT = 5
@@ -30,7 +33,7 @@ for line in f:
 	# session name gets imported in double-quotes, lets get rid of the quotes
 	session_name = session_name.split('"')[1]
 	
-	sessions[session_id] = {'name': session_name, 'created_by': session_created_by}
+	sessions[session_id] = {'name': session_name, 'created_by': session_created_by,'votes': 0}
 	
 	if session_created_by not in person.values():
 		person[(session_created_by)] = {"name": "session_creator-%s" % session_id,
@@ -64,6 +67,10 @@ for line in f:
 	voter_id = int(voter_id)
 	session_id = int(session_id)
 	votes[(voter_id, sessions[session_id]['created_by'])] += 1
+	sessions[session_id]['votes'] += 1
+	
+	# this might be interesting
+	votes_by_person[voter_id] += 1
 f.close()
 
 # in this case, the source is the voter and the target is the session creator
@@ -84,3 +91,20 @@ print "people who have voted for someone at least %d times" % VOTES_LIMIT
 for itm in top_combos:
 	print "%s voted for %s %d times" % (person[itm[0][0]]['name'], person[itm[0][1]]['name'], itm[1])
 
+# can't figure this out, don't have time
+mostvotes = sorted(votes_by_person.iteritems(),key=operator.itemgetter(1))
+
+#people who have voted the most
+print ""
+print "top ten voters"
+print "=== === ======"
+for name,votes in mostvotes[-10:]:
+	print person[name]['name'], votes
+
+print ""
+# top sessions by # of votes
+print "top sessions by number of votes"
+print "=== ======== == ====== == ====="
+xx = sorted([(v['votes'],k) for (k,v) in sessions.iteritems()])[-15:]
+for v,k in xx:
+	print v,sessions[k]['name'],person[sessions[k]['created_by']]['name']
