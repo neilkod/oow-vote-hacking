@@ -3,6 +3,7 @@
 drop table sessions;
 drop table votes;
 drop table users;
+drop table final_vote_count;
 
 create table sessions (
 session_id int primary key,
@@ -21,14 +22,12 @@ user_id int primary key,
 name varchar(100)
 );
 
-LOAD DATA LOCAL INFILE 'sessions.dat' INTO TABLE sessions FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY '"';
-LOAD DATA LOCAL INFILE 'votes.dat'    INTO TABLE votes    FIELDS TERMINATED BY '|' (session_id, user_id);
-LOAD DATA LOCAL INFILE 'users.dat'    INTO TABLE users    FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY '"';
-
-
 create table final_vote_count (
 session_id int,
 total_votes int
 );
 
+LOAD DATA LOCAL INFILE 'sessions.dat' INTO TABLE sessions FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY '"';
+LOAD DATA LOCAL INFILE 'votes.dat'    INTO TABLE votes    FIELDS TERMINATED BY '|' (session_id, user_id);
+LOAD DATA LOCAL INFILE 'users.dat'    INTO TABLE users    FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY '"';
 LOAD DATA LOCAL INFILE 'final_vote_count.dat' INTO TABLE final_vote_count FIELDS TERMINATED BY '|';
