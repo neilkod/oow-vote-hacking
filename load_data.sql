@@ -39,3 +39,4 @@ LOAD DATA LOCAL INFILE 'votes.dat'            INTO TABLE votes            FIELDS
 LOAD DATA LOCAL INFILE 'users.dat'            INTO TABLE users            FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY '"';
 LOAD DATA LOCAL INFILE 'final_vote_count.dat' INTO TABLE final_vote_count FIELDS TERMINATED BY '|';
 LOAD DATA LOCAL INFILE 'all_votes.dat'        INTO TABLE all_votes        FIELDS TERMINATED BY '|' (session_id, user_id);
+
